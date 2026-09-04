@@ -37,4 +37,4 @@ dist/
 Thumbs.db
 
 # Project-generated model/data artifacts
-data/*.pkl
+
